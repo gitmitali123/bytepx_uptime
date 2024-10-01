@@ -5,8 +5,6 @@ repo: bytepx_uptime # The name of this repository
 sites:
   - name: Bytepx
     url: https://bytepx.com
-  - name: Evolvengen
-    url: https://evolvengen.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
